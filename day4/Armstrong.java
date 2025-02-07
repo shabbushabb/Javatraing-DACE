@@ -19,8 +19,8 @@ public class Armstrong {
     }
    // if(n==result)
   //{
-System.out.println("Armstrong");
-    }
+//System.out.println("Armstrong");
+  //  }
     else{
         System.out.println("Not an Armstrong");
     }
